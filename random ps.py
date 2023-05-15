@@ -16,4 +16,4 @@ decision = input('Press G to generate a random complex password ')
 if decision.upper() == 'G':
     print('your new password is ' + str(new_password))
 else:
-    print('Gerrarahere mehn!!!')
+    print('Goodbye')
